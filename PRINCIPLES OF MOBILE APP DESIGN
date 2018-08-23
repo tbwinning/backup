@@ -1,0 +1,39 @@
+PRINCIPLES OF MOBILE APP DESIGN
+
+6 chapters
+
+1) App Navigation and Exploration
+
+ + Make it easy to manually change location.
+ + Where app to web transitions are needed, make them frictionless - match it graphically.
+ + "Chrome Custom Tabs" might be helpful
+
+2) In App Search
++ Prominently display the search field.
++ Provide filter and sort options - make it really clear and easily available. Slide out?
++ Recent query suggestions?
+
+3) Commerce and Conversions
++ Make it easy to add and manage payment methods
++ Edit data
+
+4) Registration
+
++ Make distinction between sign in or sign up - no filling out empty fields. NEED TO CHANGE
++ Smartlock - remember ID. Sign in hints.
+
+5) Form Entry
+
++ Be able to see fields coming up.
++ When you press tick- go to the next one.
++ Highlight inline
++ Scroll up field as you fill out fields?
++ Places Autocomplete
+
++ Match the keyboard with the required text inputs i.e numeric keyboard for credit card details.
+
+6) Usability and Comprehension
+
++ Text Labels and visual keys to clarify image information.
++ Don't just rely on icons. If they are vague, they DEFINITELY need text labels. Define vague? Assume that they're vague.
++ Use context specific permissions.
